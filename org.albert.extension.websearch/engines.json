@@ -52,5 +52,11 @@
         "name": "DuckDuckGo",
         "trigger": "dd ",
         "url": "https://duckduckgo.com/?q=%s"
+    },
+    {
+        "iconPath": "/home/briq/.config/albert/org.albert.extension.websearch/{867dd3c4-9f3f-4bcb-aac8-2e991dc965fe}.",
+        "name": "xgimi zen master",
+        "trigger": "zm ",
+        "url": "http://mpm.i.xgimi.com/index.php?m=task&f=view&taskID=%s"
     }
 ]
