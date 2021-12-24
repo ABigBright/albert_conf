@@ -60,9 +60,9 @@
         "url": "http://mpm.i.xgimi.com/index.php?m=task&f=view&taskID=%s"
     },
     {
-        "iconPath": "/home/briq/.config/albert/org.albert.extension.websearch/{476c85e6-a3c8-4d35-ab3b-61d22e1f3047}.",
+        "iconPath": "/home/briq/.config/albert/org.albert.extension.websearch/{df36c4d8-57d2-4cd9-8f9e-56e5e3a85053}.",
         "name": "Google Translate",
         "trigger": "gt",
-        "url": "https://translate.google.com.hk/?hl=en&tab=TT&sl=en&tl=zh-CN&text=%s&op=translate"
+        "url": "https://translate.google.cn/?hl=en&tab=TT&sl=en&tl=zh-CN&text=%s&op=translate"
     }
 ]
